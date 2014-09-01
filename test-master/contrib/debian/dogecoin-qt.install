@@ -1,6 +1,0 @@
-naturacoin-qt usr/bin
-share/pixmaps/naturacoin32.xpm usr/share/pixmaps
-share/pixmaps/naturacoin16.xpm usr/share/pixmaps
-share/pixmaps/naturacoin128.png usr/share/pixmaps
-debian/naturacoin-qt.desktop usr/share/applications
-debian/naturacoin-qt.protocol usr/share/kde4/services/
